@@ -1,5 +1,5 @@
 [package]
-name = "v3-pm-editor"
+name = "v3-localiztion-codegen"
 version = "0.0.0"
 description = "A Tauri App"
 authors = ["you"]
