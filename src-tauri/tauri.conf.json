@@ -7,7 +7,7 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "v3-products-editor",
+    "productName": "Victoria 3 Localiztion 代码生成器",
     "version": "0.0.0"
   },
   "tauri": {
